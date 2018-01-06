@@ -1,2 +1,2 @@
-# annotated_spectre
+# Annotated Spectre
 Annotated Spectre code
